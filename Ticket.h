@@ -1,6 +1,7 @@
-//
-// Your comments here...
-//
+// Patrick Donaghy
+// CSCI-271
+// November 16th, 2025
+//This is the supplied header from the ticket section of the lab.
 
 #ifndef FIRSTSTRUCT_TICKET_H
 #define FIRSTSTRUCT_TICKET_H
