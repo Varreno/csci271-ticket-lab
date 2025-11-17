@@ -1,6 +1,7 @@
-//
-// YOur comments here...
-//
+// Patrick Donaghy
+// CSCI-271
+// November 16th, 2025
+//Created the variables needed to read from Show.h
 
 #include "Show.h"
 
