@@ -1,7 +1,7 @@
-//
-// YOur comments here...
-//
-
+// Patrick Donaghy
+// CSCI-271
+// November 16th, 2025
+//This is simply a copy of the header file you provded to us in the lab.
 #ifndef FIRSTSTRUCT_SHOW_H
 #define FIRSTSTRUCT_SHOW_H
 
